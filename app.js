@@ -1,12 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDaur7zbmsnuDRdCFwntygww3D3pfpCr4M",
-    authDomain: "teamreporter-31b40.firebaseapp.com",
-    databaseURL: "https://teamreporter-31b40-default-rtdb.firebaseio.com",
-    projectId: "teamreporter-31b40",
-    storageBucket: "teamreporter-31b40.appspot.com",
-    messagingSenderId: "249691784285",
-    appId: "1:249691784285:web:d95d74218de98e297d39b4",
-    measurementId: "G-HK76KQD3TD"
+  apiKey: "AIzaSyA7opaIwJ8yHujvw0KoTqQu-I33gqBL8b8",
+  authDomain: "pop-baloon.firebaseapp.com",
+  projectId: "pop-baloon",
+  storageBucket: "pop-baloon.appspot.com",
+  messagingSenderId: "329405133458",
+  appId: "1:329405133458:web:77d266f89a2e76c3e5ac4b",
+  measurementId: "G-Z62HYER32F"
 };
 
 
